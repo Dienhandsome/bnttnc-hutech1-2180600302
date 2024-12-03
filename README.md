@@ -2,7 +2,7 @@
 
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm NGUYEN HOANG DIEN</h2>
+<h2 align="center">Hi 👋, I'm NHÓM 05 </h2>
 <p align="center">
   <h3 align="center"> Team 4 member </h3>
   <h4 align="center"> Nguyễn Hoàng Điền - Nguyễn Phúc Đạt - Lê Bảo Thiện - Trần Hữu Thiện </h4> 
@@ -48,7 +48,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src=""/>
+
 </p>
 
 ## Activities:
@@ -56,7 +56,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng&hide=Python,C++,JavaScript" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng&hide=Python,JavaScript" alt="tiennhm" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
