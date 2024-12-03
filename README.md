@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm NGUYEN HOANG DIEN</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center"> Team 4 member </h3>
 </p>
 
 > ✍ I'm a software developer at [Utop @ HUTECH](https://utop.io/).
@@ -26,7 +26,7 @@
   <a href="https://github.com/TienNHM" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
+  <a href="https://www.youtube.com/@Hoangdien83" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
