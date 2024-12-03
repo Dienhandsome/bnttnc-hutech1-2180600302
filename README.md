@@ -5,7 +5,7 @@
 <h2 align="center">Hi 👋, I'm NGUYEN HOANG DIEN</h2>
 <p align="center">
   <h3 align="center"> Team 4 member </h3>
-  <h4 aliign="center"> Nguyễn Hoàng Điền - Nguyễn Phúc Đạt - Lê Bảo Thiện - Trần Hữu Thiện </h4> 
+  <h4 align="center"> Nguyễn Hoàng Điền - Nguyễn Phúc Đạt - Lê Bảo Thiện - Trần Hữu Thiện </h4> 
 </p>
 
 > ✍ I'm a software developer at [Utop @ HUTECH](https://utop.io/).
