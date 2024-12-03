@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="[https://www.facebook.com/01.tien](https://www.facebook.com/profile.php?id=100036083453928)" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100036083453928&mibextid=ZbWKwL" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">
